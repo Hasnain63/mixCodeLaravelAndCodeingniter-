@@ -1,0 +1,25 @@
+ .navbar .navbar-nav .nav-link {
+     color: #000;
+     font-weight: 500;
+     padding-left: 15px;
+     padding-right: 15px;
+ }
+ 
+ .collapse {
+     margin-left: 150px;
+ }
+ 
+ .navbar-brand {
+     color: #000;
+     font-weight: 700;
+     padding-left: 15px;
+     padding-right: 15px;
+ }
+ 
+ .carousel-item {
+     height: 450px;
+ }
+ 
+ a {
+     color: #505050;
+ }
